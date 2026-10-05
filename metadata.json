@@ -1,0 +1,6 @@
+{
+  "name": "AI Photo Studio & Editor",
+  "description": "An AI-powered photo studio with user profile accounts, personal cloud gallery, style transfer, fashion styling, image enhancement, prompt editing, and high-resolution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
